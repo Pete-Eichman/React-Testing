@@ -8,10 +8,12 @@ body {
 h1 {
   font-size: 1.5rem;
   color: white;
+  font-weight: bold;
+  text-decoration: underline;
 }
 
 p {
   color: white;
   font-size: 1.2rem;
-  text-decoration: underline;
+  text-align: center;
 }
