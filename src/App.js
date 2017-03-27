@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="logo" />
           <h1>Testing React using Jest!</h1>
         </div>
-        <p className="App-intro">
+        <p className="App-intro"></p>
       </div>
     );
   }
